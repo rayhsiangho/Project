@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterTweetsApp", "TwitterTweetsApp\TwitterTweetsApp.csproj", "{73989981-8C26-4CDC-8DB2-2218B62E196E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterTweetsApp.Tests", "TwitterTweetsApp.Tests\TwitterTweetsApp.Tests.csproj", "{753C10AA-F8E0-40A8-845F-4C19E2570430}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73989981-8C26-4CDC-8DB2-2218B62E196E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73989981-8C26-4CDC-8DB2-2218B62E196E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73989981-8C26-4CDC-8DB2-2218B62E196E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73989981-8C26-4CDC-8DB2-2218B62E196E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{753C10AA-F8E0-40A8-845F-4C19E2570430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{753C10AA-F8E0-40A8-845F-4C19E2570430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{753C10AA-F8E0-40A8-845F-4C19E2570430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{753C10AA-F8E0-40A8-845F-4C19E2570430}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
